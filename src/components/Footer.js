@@ -6,7 +6,7 @@ const Footer = ({ mode }) => {
   const textColorStyle = { color: 'white' };
 
   return (
-    <div className="container" style={{ marginTop: '35vh' }}>
+    <div className="container" style={{ marginTop: '25vh' }}>
       <footer>
         <hr style={textColorStyle} />
         <div className="d-flex justify-content-between">
